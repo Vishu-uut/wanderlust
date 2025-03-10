@@ -22,12 +22,22 @@ Follow these steps to install and run the project:
 
 Here are some screenshots of the project:
 
-!./screenshots/login_page
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
-![Screenshot 4](path/to/screenshot4.png)
+login page UI
+![Screenshot 1](./screenshots/login_page.png)
 
-Replace `path/to/screenshotX.png` with the actual paths to your screenshot images.
+Todo List UI
+![Screenshot 2](./screenshots/todo_list.png)
+
+Drag and arrange the tasks as you wish
+![Screenshot 3](./screenshots/drag_and_arrange.png)
+
+Add tasks to your list
+![Screenshot 4](./screenshots/add_tasks.png)
+
+Delete tasks from your list
+![Screenshot 5](./screenshots/Delete_tasks.png)
+
+
 
 ## License
 
